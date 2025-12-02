@@ -43,7 +43,7 @@ Clonez le dépôt et compilez avec `gcc` :
 ```bash
 git clone https://github.com/Sunu-byte-1/ERP_UNIVERSITAIRE-C.git
 cd ERP_UNIVERSITAIRE-C
-gcc -o erp main.c autres_fichiers.c -I./include
-./erp
-
+gcc *.c -o prog.exe
+ ```
+et lancez prog.exe
 
